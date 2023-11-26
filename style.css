@@ -1,0 +1,12 @@
+header{
+  display: flex;
+  justify-content: space-around;
+  color: #017bd5;
+  font-size: 32px;
+}
+
+section{
+  padding: 20px;
+  font-size: 24px;
+  color: #94d450;
+}
